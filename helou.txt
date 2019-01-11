@@ -1,1 +1,1 @@
-alert("дарова бандиты")
+alert("sdravstvujte")
