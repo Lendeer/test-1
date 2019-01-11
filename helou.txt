@@ -1,1 +1,4 @@
 alert("sdravstvujte")
+if I<21 {
+A=11 } else {
+    A=1 }
